@@ -17,8 +17,6 @@ http://190.83.119.67:8000/play/a0sb/index.m3u8
 http://190.83.119.67:8000/play/a0q4/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nv.png",Antena 3
 http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p2.png",Antena 7
-http://190.83.119.67:8000/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o1.png",Atres Series
 http://190.83.119.67:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pg.png",Azcorazon
@@ -39,12 +37,10 @@ http://190.83.119.67:8000/play/a0sl/index.m3u8
 http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ps.png",CNN en Español 
 http://190.83.119.67:8000/play/a0ps/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oy.png",Canal Claro
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oy.png",Claro TV
 http://190.83.119.67:8000/play/a0oy/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oo.png",Canal Claro HD
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oo.png",Claro TV
 http://190.83.119.67:8000/play/a0oo/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0np.png",Canal del Congreso
-http://190.83.119.67:8000/play/a0np/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
 http://190.83.119.67:8000/play/a0p8/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pa.png",Cartoonito
@@ -69,7 +65,7 @@ http://190.83.119.67:8000/play/a0oq/index.m3u8
 http://190.83.119.67:8000/play/a0ok/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qd.png",DHE HD
 http://190.83.119.67:8000/play/a0qd/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",Discovery Theater HD
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",Discovery Theater Latinoamérica 
 http://190.83.119.67:8000/play/a0sr/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sa.png",Discovery Channel
 http://190.83.119.67:8000/play/a0sa/index.m3u8
