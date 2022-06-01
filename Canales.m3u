@@ -59,7 +59,7 @@ http://190.83.119.67:8000/play/a0o2/index.m3u8
 http://190.83.119.67:8000/play/a0ra/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0su.png",Comedy Central HD
 http://190.83.119.67:8000/play/a0su/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",Discovery Theater Latinoamérica 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",Discovery Theater (Latinoamérica) 
 http://190.83.119.67:8000/play/a0sr/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sa.png",Discovery Channel
 http://190.83.119.67:8000/play/a0sa/index.m3u8
