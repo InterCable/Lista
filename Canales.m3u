@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png",Adn 40
-
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s8.png",A&E
 http://190.83.119.67:8000/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q7.png",A&E HD
@@ -31,8 +29,6 @@ http://190.83.119.67:8000/play/a0r3/index.m3u8
 http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v6.png",Beinsports
 http://190.83.119.67:8000/play/a0v6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/8e264b8a52bef6f4c48c3f955e80debf.png", Canal Once Mexico
-
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png",Cinecanal HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o7.png",CNN Internacional
