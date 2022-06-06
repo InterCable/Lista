@@ -31,7 +31,7 @@ http://190.83.119.67:8000/play/a0r3/index.m3u8
 http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v6.png",Beinsports
 http://190.83.119.67:8000/play/a0v6/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v6.png",Bloomberg El Financiero
+#EXTINF:-1 tvg-logo="",Bloomberg El Financiero
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png",Cinecanal HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
@@ -191,6 +191,8 @@ http://190.83.119.67:8000/play/a0pk/index.m3u8
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0so.png",Nickelodeon
 http://190.83.119.67:8000/play/a0so/index.m3u8
+#EXTINF:-1 tvg-logo="",Once Tv
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ol.png",Paramount
 http://190.83.119.67:8000/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png",Paramount HD
