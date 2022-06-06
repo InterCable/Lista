@@ -155,8 +155,10 @@ http://190.83.119.67:8000/play/a0sc/index.m3u8
 http://190.83.119.67:8000/play/a0px/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nz.png",Hola!TV
 http://190.83.119.67:8000/play/a0nz/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nx.png",Hgtv
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nx.png",HGTV
 http://190.83.119.67:8000/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-logo="",Imagen Television
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoHsYoRE5xlGFoW4OdxbwRQuEGH2lU7C5x78guQoNPiA)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pl.png",LIFE TIME
 http://190.83.119.67:8000/play/a0pl/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rd.png",Latin America Sport
