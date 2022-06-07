@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Adn 40
+#EXTINF:-1, ADN 40
 http://bgapp.live/play/bud-606.php?c=30301.m3u8&blck
 #EXTINF:-1, Animal Planet
 http://bgapp.live/play/bud-606.php?c=34380.m3u8&blck
@@ -23,6 +23,8 @@ http://bgapp.live/play/bud-606.php?c=16528.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=3119.m3u8&blck
 #EXTINF:-1, BitME
 http://bgapp.live/play/bud-606.php?c=3131.m3u8&blck
+#EXTINF:-1, Bloomberg
+http://bgapp.live/play/bud-606.php?c=23074.m3u8&blck
 #EXTINF:-1, Discovery Channel
 http://bgapp.live/play/bud-606.php?c=30321.m3u8&blck
 #EXTINF:-1, Discovery Home and Health
@@ -31,7 +33,7 @@ http://bgapp.live/play/bud-606.php?c=16532.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=3315.m3u8&blck
 #EXTINF:-1, Discovery Tlc
 http://bgapp.live/play/bud-606.php?c=16536.m3u8&blck
-#EXTINF:-1, Discovery Theather Hd
+#EXTINF:-1, Discovery Theater Hd
 http://bgapp.live/play/bud-606.php?c=34388.m3u8&blck
 #EXTINF:-1, Discovery World Hd
 http://bgapp.live/play/bud-606.php?c=34389.m3u8&blck
@@ -41,43 +43,51 @@ http://bgapp.live/play/bud-606.php?c=3126.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=3127.m3u8&blck
 #EXTINF:-1, De Pelicula
 http://bgapp.live/play/bud-606.php?c=3143.m3u8&blck
+#EXTINF:-1, Fox Sports 2
+http://bgapp.live/play/bud-606.php?c=56070.m3u8&blck
+#EXTINF:-1, Fox Sports 3
+http://bgapp.live/play/bud-606.php?c=56069.m3u8&blck
 #EXTINF:-1, El Gourmet
 http://bgapp.live/play/bud-606.php?c=16544.m3u8&blck
+#EXTINF:-1, Espn 3
+http://bgapp.live/play/bud-606.php?c=14269.m3u8&blck
 #EXTINF:-1, Food Network
 http://bgapp.live/play/bud-606.php?c=50462.m3u8&blck
 #EXTINF:-1, Foro Tv
 http://bgapp.live/play/bud-606.php?c=22687.m3u8&blck
+#EXTINF:-1, Golden 
+http://bgapp.live/play/bud-606.php?c=23057.m3u8&blck
 #EXTINF:-1,History Channel
 http://bgapp.live/play/bud-606.php?c=16565.m3u8&blck
 #EXTINF:-1,H2
 http://bgapp.live/play/bud-606.php?c=16564.m3u8&blck
-#EXTINF:-1,Imagen Television
+#EXTINF:-1,Imagen Tv
 http://bgapp.live/play/bud-606.php?c=16566.m3u8&blck
 #EXTINF:-1,Las Estrellas
 http://bgapp.live/play/bud-606.php?c=52808.m3u8&blck
 #EXTINF:-1, Milenio Television
 http://bgapp.live/play/bud-606.php?c=30358.m3u8&blck
-#EXTINF:-1, Multimedios 
+#EXTINF:-1, Multimedio
 http://bgapp.live/play/bud-606.php?c=30359.m3u8&blck
 #EXTINF:-1, National Geographic
 http://bgapp.live/play/bud-606.php?c=30361.m3u8&blck
 #EXTINF:-1, Nick
-http://bgapp.live/play/bud-606.php?c=16579.m3u8&blck
+http://bgapp.live/play/bud-606.php?c=3129.m3u8&blck
 #EXTINF:-1, Nick Jr.
-http://bgapp.live/play/bud-606.php?c=16578.m3u8&blck
-#EXTINF:-1, Paramount
+http://bgapp.live/play/bud-606.php?c=3130.m3u8&blck
+#EXTINF:-1, Paramount Channel
 http://bgapp.live/play/bud-606.php?c=16580.m3u8&blck
 #EXTINF:-1, Space
 http://bgapp.live/play/bud-606.php?c=16582.m3u8&blck
 #EXTINF:-1, Sony
 http://bgapp.live/play/bud-606.php?c=16581.m3u8&blck
-#EXTINF:-1, Star Channel
+#EXTINF:-1, Fox
 http://bgapp.live/play/bud-606.php?c=16585.m3u8&blck
 #EXTINF:-1, Studio Universal
 http://bgapp.live/play/bud-606.php?c=16591.m3u8&blck
 #EXTINF:-1, Tbs
 http://bgapp.live/play/bud-606.php?c=16594.m3u8&blck
-#EXTINF:-1, Telemundo Internancional
+#EXTINF:-1, Telemundo 
 http://bgapp.live/play/bud-606.php?c=16597.m3u8&bl
 #EXTINF:-1, Tlnovelas
 http://bgapp.live/play/bud-606.php?c=16598.m3u8&blck
@@ -91,6 +101,8 @@ http://bgapp.live/play/bud-606.php?c=16602.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=16592.m3u8&blck
 #EXTINF:-1, Univision
 http://bgapp.live/play/bud-606.php?c=51642.m3u8&blck
+#EXTINF:-1, Univision
+http://bgapp.live/play/bud-606.php?c=2091.m3u8&blck
 #EXTINF:-1, Unicable
 http://bgapp.live/play/bud-606.php?c=16604.m3u8&blck
 #EXTINF:-1, Universal Channel
