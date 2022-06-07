@@ -73,10 +73,18 @@ http://bgapp.live/play/bud-606.php?c=37826.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=37827.m3u8&blck
 #EXTINF:-1, Golden 
 http://bgapp.live/play/bud-606.php?c=23057.m3u8&blck
+#EXTINF:-1,Hbo
+http://bgapp.live/play/bud-606.php?c=3299.m3u8&blck
+#EXTINF:-1,Hbo 2
+http://bgapp.live/play/bud-606.php?c=3322.m3u8&blck
+#EXTINF:-1,Hbo Family
+http://bgapp.live/play/bud-606.php?c=3323.m3u8&blck
 #EXTINF:-1,History Channel
 http://bgapp.live/play/bud-606.php?c=16565.m3u8&blck
 #EXTINF:-1,H2
 http://bgapp.live/play/bud-606.php?c=16564.m3u8&blck
+#EXTINF:-1,HGTV
+http://bgapp.live/play/bud-606.php?c=1487.m3u8&blck
 #EXTINF:-1,Imagen Tv
 http://bgapp.live/play/bud-606.php?c=16566.m3u8&blck
 #EXTINF:-1,I.Sat
