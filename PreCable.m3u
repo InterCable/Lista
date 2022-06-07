@@ -15,6 +15,10 @@ http://bgapp.live/play/bud-606.php?c=52858.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=3563.m3u8&blck
 #EXTINF:-1, Canal 5
 http://bgapp.live/play/bud-606.php?c=3297.m3u8&blck
+#EXTINF:-1, Canal 22
+http://bgapp.live/play/bud-606.php?c=3482.m3u8&blck
+#EXTINF:-1, Canal 22
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 #EXTINF:-1, Cartoon Network
 http://bgapp.live/play/bud-606.php?c=3133.m3u8&blck
 #EXTINF:-1, Cartoonito
@@ -27,7 +31,7 @@ http://bgapp.live/play/bud-606.php?c=16527.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=16528.m3u8&blck
 #EXTINF:-1, Comedy Central
 http://bgapp.live/play/bud-606.php?c=3119.m3u8&blck
-#EXTINF:-1, BitMe
+#EXTINF:-1, bitMe
 http://bgapp.live/play/bud-606.php?c=3131.m3u8&blck
 #EXTINF:-1, Bloomberg
 http://bgapp.live/play/bud-606.php?c=23074.m3u8&blck
