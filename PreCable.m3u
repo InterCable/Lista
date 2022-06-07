@@ -73,6 +73,8 @@ http://bgapp.live/play/bud-606.php?c=37826.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=37827.m3u8&blck
 #EXTINF:-1, Golden 
 http://bgapp.live/play/bud-606.php?c=23057.m3u8&blck
+#EXTINF:-1, Golden Plus
+http://bgapp.live/play/bud-606.php?c=38455.m3u8&blck
 #EXTINF:-1,Hbo
 http://bgapp.live/play/bud-606.php?c=3299.m3u8&blck
 #EXTINF:-1,Hbo 2
@@ -91,6 +93,10 @@ http://bgapp.live/play/bud-606.php?c=16566.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=37808.m3u8&blck
 #EXTINF:-1,Las Estrellas
 http://bgapp.live/play/bud-606.php?c=52808.m3u8&blck
+#EXTINF:-1,Lifetime
+http://bgapp.live/play/bud-606.php?c=3116.m3u8&blck
+#EXTINF:-1, Mexiquense Tv
+http://bgapp.live/play/bud-606.php?c=1500.m3u8&blck
 #EXTINF:-1, Milenio Television
 http://bgapp.live/play/bud-606.php?c=30358.m3u8&blck
 #EXTINF:-1, Multimedios 
