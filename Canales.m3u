@@ -187,6 +187,8 @@ http://190.83.119.67:8000/play/a0nu/index.m3u8
 http://190.83.119.67:8000/play/a0tj/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o5.png",Multicinema
 http://190.83.119.67:8000/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-logo="",Multimedios Television
+http://clubtv.link/3junio/3junio/geomex.php?c=2305
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0og.png",Mexiquense Tv
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tm.png",Multipremier
@@ -267,6 +269,8 @@ http://190.83.119.67:8000/play/a0s3/index.m3u8
 http://190.83.119.67:8000/play/a0pe/index.m3u8
 #EXTINF:-1 tvg-logo="",Tudn Univision
 http://bgapp.live/play/ultim-606.php?tokeen=blackgghost&c=189&f=.m3u8
+#EXTINF:-1 tvg-logo="",Tdn
+http://clubtv.link/3junio/3junio/geomex.php?c=174
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0om.png",UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0om/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v2.png",UNIVERSAL CINEMA HD
