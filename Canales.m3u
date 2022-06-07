@@ -167,6 +167,8 @@ https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoHsYoRE5xlGFoW4Od
 http://190.83.119.67:8000/play/a0pl/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rd.png",Latin America Sport
 http://190.83.119.67:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-logo="",Los Simpsons
+http://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rf.png",MTV 00s
 http://190.83.119.67:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sw.png",MTV 00s HD
