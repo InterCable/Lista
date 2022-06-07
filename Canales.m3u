@@ -37,7 +37,7 @@ https://5fc584f3f19c9.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMjIgMTI6Mzk6MTcgQU0maGFzaF92YWx1ZT1MaHN1MEU4MWhQcDVEMkVTSjdtaVJRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png",Cinecanal HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o7.png",CNN Internacional
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o7.png",Cnn Internacional
 http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ps.png",CNN en Español 
 http://190.83.119.67:8000/play/a0ps/index.m3u8
@@ -63,11 +63,11 @@ http://190.83.119.67:8000/play/a0o2/index.m3u8
 http://190.83.119.67:8000/play/a0ra/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0su.png",Comedy Central HD
 http://190.83.119.67:8000/play/a0su/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",Discovery Theater (Latinoamérica) 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",Discovery Theater Hd
 http://190.83.119.67:8000/play/a0sr/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sa.png",Discovery Channel (Guatemala) 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sa.png",Discovery Channel 
 http://190.83.119.67:8000/play/a0sa/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tb.png",Discovery Channel (Guatemala) 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tb.png",Discovery Channel 
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tf.png",Discovery ID HD
 http://190.83.119.67:8000/play/a0tf/index.m3u8
