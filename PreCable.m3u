@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1, ADN 40
 http://bgapp.live/play/bud-606.php?c=30301.m3u8&blck
+#EXTINF:-1, AMC
+http://bgapp.live/play/bud-606.php?c=30304.m3u8&blck
+#EXTINF:-1, AXN
+http://bgapp.live/play/bud-606.php?c=30305.m3u8&blck
+#EXTINF:-1, A&E
+http://bgapp.live/play/bud-606.php?c=30300.m3u8&blck
 #EXTINF:-1, Animal Planet
 http://bgapp.live/play/bud-606.php?c=34380.m3u8&blck
 #EXTINF:-1, Azteca 7
@@ -87,6 +93,8 @@ http://bgapp.live/play/bud-606.php?c=30361.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=3129.m3u8&blck
 #EXTINF:-1, Nick Jr.
 http://bgapp.live/play/bud-606.php?c=3130.m3u8&blck
+#EXTINF:-1, Canal Once
+http://bgapp.live/play/bud-606.php?c=19660.m3u8&blck
 #EXTINF:-1, Paramount Channel
 http://bgapp.live/play/bud-606.php?c=16580.m3u8&blck
 #EXTINF:-1, Space
@@ -105,6 +113,8 @@ http://bgapp.live/play/bud-606.php?c=16597.m3u8&bl
 http://bgapp.live/play/bud-606.php?c=16598.m3u8&blck
 #EXTINF:-1, TNT
 http://bgapp.live/play/bud-606.php?c=16599.m3u8&blck
+#EXTINF:-1, TNT Series
+http://bgapp.live/play/bud-606.php?c=38480.m3u8&blck
 #EXTINF:-1, Tooncast
 http://bgapp.live/play/bud-606.php?c=16601.m3u8&blck
 #EXTINF:-1, Tvc Deportes
@@ -121,4 +131,3 @@ http://bgapp.live/play/bud-606.php?c=16604.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=16605.m3u8&blck
 #EXTINF:-1, Warner
 http://bgapp.live/play/bud-606.php?c=16607.m3u8&blck
-
