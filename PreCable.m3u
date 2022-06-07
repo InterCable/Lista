@@ -75,6 +75,8 @@ http://bgapp.live/play/bud-606.php?c=37825.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=37826.m3u8&blck
 #EXTINF:-1, Fox Sports 3
 http://bgapp.live/play/bud-606.php?c=37827.m3u8&blck
+#EXTINF:-1, FX
+http://bgapp.live/play/bud-606.php?c=3102.m3u8&blck
 #EXTINF:-1, Golden 
 http://bgapp.live/play/bud-606.php?c=23057.m3u8&blck
 #EXTINF:-1, Golden Plus
@@ -119,7 +121,9 @@ http://bgapp.live/play/bud-606.php?c=16580.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=16582.m3u8&blck
 #EXTINF:-1, Sony
 http://bgapp.live/play/bud-606.php?c=16581.m3u8&blck
-#EXTINF:-1, Fox
+#EXTINF:-1, Syfy
+http://bgapp.live/play/bud-606.php?c=3109.m3u8&blck
+#EXTINF:-1, Star Channel
 http://bgapp.live/play/bud-606.php?c=16585.m3u8&blck
 #EXTINF:-1, Studio Universal
 http://bgapp.live/play/bud-606.php?c=16591.m3u8&blck
