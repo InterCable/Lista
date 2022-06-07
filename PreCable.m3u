@@ -43,18 +43,28 @@ http://bgapp.live/play/bud-606.php?c=3126.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=3127.m3u8&blck
 #EXTINF:-1, De Pelicula
 http://bgapp.live/play/bud-606.php?c=3143.m3u8&blck
-#EXTINF:-1, Fox Sports 2
-http://bgapp.live/play/bud-606.php?c=56070.m3u8&blck
-#EXTINF:-1, Fox Sports 3
-http://bgapp.live/play/bud-606.php?c=56069.m3u8&blck
 #EXTINF:-1, El Gourmet
 http://bgapp.live/play/bud-606.php?c=16544.m3u8&blck
+#EXTINF:-1, Espn Deportes
+http://bgapp.live/play/bud-606.php?c=15453.m3u8&blck
+#EXTINF:-1, Espn 
+http://bgapp.live/play/bud-606.php?c=37811.m3u8&blck
+#EXTINF:-1, Espn 2
+http://bgapp.live/play/bud-606.php?c=37812.m3u8&blck
 #EXTINF:-1, Espn 3
-http://bgapp.live/play/bud-606.php?c=14269.m3u8&blck
+http://bgapp.live/play/bud-606.php?c=37813.m3u8&blck
+#EXTINF:-1, Espn Extra
+http://bgapp.live/play/bud-606.php?c=1677.m3u8&blck
 #EXTINF:-1, Food Network
 http://bgapp.live/play/bud-606.php?c=50462.m3u8&blck
 #EXTINF:-1, Foro Tv
 http://bgapp.live/play/bud-606.php?c=22687.m3u8&blck
+#EXTINF:-1, Fox Sports 
+http://bgapp.live/play/bud-606.php?c=37825.m3u8&blck
+#EXTINF:-1, Fox Sports 2
+http://bgapp.live/play/bud-606.php?c=37826.m3u8&blck
+#EXTINF:-1, Fox Sports 3
+http://bgapp.live/play/bud-606.php?c=37827.m3u8&blck
 #EXTINF:-1, Golden 
 http://bgapp.live/play/bud-606.php?c=23057.m3u8&blck
 #EXTINF:-1,History Channel
@@ -63,11 +73,13 @@ http://bgapp.live/play/bud-606.php?c=16565.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=16564.m3u8&blck
 #EXTINF:-1,Imagen Tv
 http://bgapp.live/play/bud-606.php?c=16566.m3u8&blck
+#EXTINF:-1,I.Sat
+http://bgapp.live/play/bud-606.php?c=37808.m3u8&blck
 #EXTINF:-1,Las Estrellas
 http://bgapp.live/play/bud-606.php?c=52808.m3u8&blck
 #EXTINF:-1, Milenio Television
 http://bgapp.live/play/bud-606.php?c=30358.m3u8&blck
-#EXTINF:-1, Multimedio
+#EXTINF:-1, Multimedios 
 http://bgapp.live/play/bud-606.php?c=30359.m3u8&blck
 #EXTINF:-1, National Geographic
 http://bgapp.live/play/bud-606.php?c=30361.m3u8&blck
@@ -109,3 +121,4 @@ http://bgapp.live/play/bud-606.php?c=16604.m3u8&blck
 http://bgapp.live/play/bud-606.php?c=16605.m3u8&blck
 #EXTINF:-1, Warner
 http://bgapp.live/play/bud-606.php?c=16607.m3u8&blck
+
